@@ -1,7 +1,7 @@
-import CountryList from "../components/CountryList";
-import RegionMenu from "../components/RegionMenu";
-import SearchInput from "../components/SearchInput";
-import ShowMessage from "../components/ShowMessage";
+import CountryList from "../Components/CountryList";
+import RegionMenu from "../Components/RegionMenu";
+import SearchInput from "../Components/SearchInput";
+import ShowMessage from "../Components/ShowMessage";
 import { useFetchData } from "../useFetchData";
 
 const Home = () => {
