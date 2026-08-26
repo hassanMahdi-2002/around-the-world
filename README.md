@@ -38,7 +38,7 @@ Make sure you have Node.js installed on your machine.
 4. npm run dev
 5. Open http://localhost:5173 in your browser.
 
-##📂 Folder Structure
+## 📂 Folder Structure
 /src/components: Contains reusable UI components (Header, CountryCard, SearchInput, etc.)
 
 /src/pages: Contains the main page views (Home, Country details, Layout)
