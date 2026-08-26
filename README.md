@@ -44,3 +44,6 @@ Make sure you have Node.js installed on your machine.
 /src/pages: Contains the main page views (Home, Country details, Layout)
 
 /src/useFetchData.js: Custom hook handling API requests, loading states, and localStorage caching.
+
+## Designed & Developed by 
+# Hassan Mahdi
