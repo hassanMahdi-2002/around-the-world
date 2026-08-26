@@ -1,6 +1,6 @@
 import { Link, useParams } from "react-router-dom";
 import { useFetchData } from "../useFetchData";
-import ShowMessage from "../components/ShowMessage";
+import ShowMessage from "../Components/ShowMessage";
 
 const Country = () => {
   const { country } = useParams();
