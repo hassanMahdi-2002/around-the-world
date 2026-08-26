@@ -2,7 +2,7 @@
 
 A responsive, interactive web application that integrates with the [REST Countries API](https://studies.cs.helsinki.fi/restcountries/api/all) to display detailed information about countries worldwide. 
 
-**Live Demo:** around-the-world-8ssg-oou69m2hu-hassan-ae68.vercel.app
+**Live Demo:** (https://around-the-world-8ssg-oou69m2hu-hassan-ae68.vercel.app/)
 
 ## ✨ Features
 
