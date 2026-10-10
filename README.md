@@ -2,7 +2,13 @@
 
 A responsive, interactive web application that integrates with the [REST Countries API](https://studies.cs.helsinki.fi/restcountries/api/all) to display detailed information about countries worldwide. 
 
-**Live Demo:** (https://around-the-world-8ssg-oou69m2hu-hassan-ae68.vercel.app/)
+<a href="https://around-the-world-two-sigma.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-22E58B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Live Demo" />
+</a>
+&nbsp;
+<a href="https://github.com/hassanMahdi-2002/around-the-world" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Repo" />
+</a>
 
 ## ✨ Features
 
